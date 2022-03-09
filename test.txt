@@ -1,1 +1,1 @@
-s is a test file
+This is new file for branch 3.  Why can't I have more harmonic and less painful days?
